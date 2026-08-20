@@ -9,7 +9,7 @@
 | **Tags** | Array, Math, Matrix |
 | **Link** | [View Problem](https://leetcode.com/problems/rotate-image/) |
 | **Runtime** | 0 ms |
-| **Memory** | 43 MB |
+| **Memory** | 43.8 MB |
 
 ## Problem Description
 
