@@ -8,8 +8,8 @@
 | **Solved On** | August 20, 2026 |
 | **Tags** | Array, Matrix |
 | **Link** | [View Problem](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) |
-| **Runtime** | 0 ms |
-| **Memory** | 41.9 MB |
+| **Runtime** | 3 ms |
+| **Memory** | 47.1 MB |
 
 ## Problem Description
 
