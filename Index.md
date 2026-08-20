@@ -7,3 +7,6 @@ All solved problems organized by pattern/category.
 - [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) - *Medium*
 - [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) - *Easy*
 - [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) - *Medium*
+
+## Arrays & Hashing
+- [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) - *Easy*
