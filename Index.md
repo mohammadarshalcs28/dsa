@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) - *Easy*
 - [Rotate Image](./LeetCode/Medium/Rotate%20Image) - *Medium*
 - [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) - *Medium*
 - [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) - *Easy*
