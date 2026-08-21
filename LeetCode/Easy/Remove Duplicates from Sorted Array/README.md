@@ -8,8 +8,8 @@
 | **Solved On** | August 21, 2026 |
 | **Tags** | Array, Two Pointers |
 | **Link** | [View Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
-| **Runtime** | 0 ms |
-| **Memory** | 42.8 MB |
+| **Runtime** | 1 ms |
+| **Memory** | 46.4 MB |
 
 ## Problem Description
 
