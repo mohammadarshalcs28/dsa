@@ -8,8 +8,8 @@
 | **Solved On** | August 22, 2026 |
 | **Tags** | Two Pointers, String |
 | **Link** | [View Problem](https://leetcode.com/problems/valid-palindrome/) |
-| **Runtime** | 0 ms |
-| **Memory** | 42.8 MB |
+| **Runtime** | 2 ms |
+| **Memory** | 44.1 MB |
 
 ## Problem Description
 
