@@ -8,8 +8,8 @@
 | **Solved On** | August 26, 2026 |
 | **Tags** | Hash Table, String |
 | **Link** | [View Problem](https://leetcode.com/problems/buddy-strings/) |
-| **Runtime** | 5 ms |
-| **Memory** | 43.9 MB |
+| **Runtime** | 4 ms |
+| **Memory** | 44.1 MB |
 
 ## Problem Description
 
