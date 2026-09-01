@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Reverse Only Letters](./LeetCode/Easy/Reverse%20Only%20Letters) - *Easy*
 - [Detect Capital](./LeetCode/Easy/Detect%20Capital) - *Easy*
 - [Buddy Strings](./LeetCode/Easy/Buddy%20Strings) - *Easy*
 - [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) - *Easy*
