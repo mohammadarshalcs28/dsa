@@ -20,3 +20,6 @@ All solved problems organized by pattern/category.
 
 ## Math & Geometry
 - [Merge k Sorted Lists](./LeetCode/Hard/Merge%20k%20Sorted%20Lists) - *Hard*
+
+## Greedy
+- [N-Queens II](./LeetCode/Hard/N-Queens%20II) - *Hard*
