@@ -17,3 +17,6 @@ All solved problems organized by pattern/category.
 
 ## Arrays & Hashing
 - [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) - *Easy*
+
+## Math & Geometry
+- [Merge k Sorted Lists](./LeetCode/Hard/Merge%20k%20Sorted%20Lists) - *Hard*
