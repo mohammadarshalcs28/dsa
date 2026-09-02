@@ -4,16 +4,16 @@
 |-------|-------|
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
-| **Language** | cpp |
-| **Solved On** | August 18, 2026 |
+| **Language** | java |
+| **Solved On** | September 2, 2026 |
 | **Tags** | Math |
 | **Link** | [View Problem](https://leetcode.com/problems/palindrome-number/) |
 | **Runtime** | 0 ms |
-| **Memory** | 7.8 MB |
+| **Memory** | 42.1 MB |
 
 ## Problem Description
 
-<p>Given an integer <code>x</code>, return <code>true</code> if <code>x</code> is a <span data-keyword="palindrome-integer" class=" cursor-pointer relative text-dark-blue-s text-sm"><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_r_r_" data-state="closed" class=""><strong>palindrome</strong></button></span>, and <code>false</code> otherwise.</p>
+<p>Given an integer <code>x</code>, return <code>true</code> if <code>x</code> is a <span data-keyword="palindrome-integer" class=" cursor-pointer relative text-dark-blue-s text-sm"><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_r_8k_" data-state="closed" class=""><strong>palindrome</strong></button></span>, and <code>false</code> otherwise.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
