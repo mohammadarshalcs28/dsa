@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) - *Easy*
 - [Reverse Only Letters](./LeetCode/Easy/Reverse%20Only%20Letters) - *Easy*
 - [Detect Capital](./LeetCode/Easy/Detect%20Capital) - *Easy*
 - [Buddy Strings](./LeetCode/Easy/Buddy%20Strings) - *Easy*
