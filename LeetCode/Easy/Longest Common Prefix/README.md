@@ -8,8 +8,8 @@
 | **Solved On** | September 3, 2026 |
 | **Tags** | Array, String, Trie |
 | **Link** | [View Problem](https://leetcode.com/problems/longest-common-prefix/) |
-| **Runtime** | 5 ms |
-| **Memory** | 41.6 MB |
+| **Runtime** | 4 ms |
+| **Memory** | 43.2 MB |
 
 ## Problem Description
 
