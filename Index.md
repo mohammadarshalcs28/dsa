@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) - *Easy*
 - [Long Pressed Name](./LeetCode/Easy/Long%20Pressed%20Name) - *Easy*
 - [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) - *Easy*
 - [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) - *Easy*
