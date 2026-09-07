@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
 - [Roman to Integer](./LeetCode/Easy/Roman%20to%20Integer) - *Easy*
 - [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) - *Easy*
 - [Long Pressed Name](./LeetCode/Easy/Long%20Pressed%20Name) - *Easy*
