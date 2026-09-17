@@ -8,8 +8,8 @@
 | **Solved On** | September 17, 2026 |
 | **Tags** | Two Pointers, String, Stack, Simulation |
 | **Link** | [View Problem](https://leetcode.com/problems/backspace-string-compare/) |
-| **Runtime** | 3 ms |
-| **Memory** | 43.4 MB |
+| **Runtime** | 2 ms |
+| **Memory** | 43.1 MB |
 
 ## Problem Description
 
