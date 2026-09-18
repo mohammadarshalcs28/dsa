@@ -9,7 +9,7 @@
 | **Tags** | Two Pointers, String |
 | **Link** | [View Problem](https://leetcode.com/problems/reverse-string/) |
 | **Runtime** | 0 ms |
-| **Memory** | 48.4 MB |
+| **Memory** | 48.6 MB |
 
 ## Problem Description
 
