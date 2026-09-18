@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
 - [Backspace String Compare](./LeetCode/Easy/Backspace%20String%20Compare) - *Easy*
 - [Make The String Great](./LeetCode/Easy/Make%20The%20String%20Great) - *Easy*
 - [Baseball Game](./LeetCode/Easy/Baseball%20Game) - *Easy*
