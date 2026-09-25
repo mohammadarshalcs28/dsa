@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Best Time to Buy and Sell Stock](./LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock) - *Easy*
 - [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) - *Easy*
 - [String Compression](./LeetCode/Medium/String%20Compression) - *Medium*
 - [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) - *Easy*
