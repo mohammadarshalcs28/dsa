@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) - *Easy*
 - [Find Numbers with Even Number of Digits](./LeetCode/Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits) - *Easy*
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
 - [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
