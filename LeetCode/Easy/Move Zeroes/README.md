@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | September 25, 2026 |
+| **Solved On** | October 7, 2026 |
 | **Tags** | Array, Two Pointers |
 | **Link** | [View Problem](https://leetcode.com/problems/move-zeroes/) |
 | **Runtime** | 2 ms |
-| **Memory** | 47.8 MB |
+| **Memory** | 48 MB |
 
 ## Problem Description
 
