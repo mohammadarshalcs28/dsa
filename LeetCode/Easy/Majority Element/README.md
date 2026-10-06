@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | September 25, 2026 |
+| **Solved On** | October 7, 2026 |
 | **Tags** | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | **Link** | [View Problem](https://leetcode.com/problems/majority-element/) |
-| **Runtime** | 15 ms |
-| **Memory** | 55.2 MB |
+| **Runtime** | 2 ms |
+| **Memory** | 63.3 MB |
 
 ## Problem Description
 
